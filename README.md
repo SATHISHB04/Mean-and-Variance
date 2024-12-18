@@ -2,6 +2,9 @@
 
 # Date:21.09.2024
 
+# Name:SATHISH.B
+
+# Register No:24900077
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
