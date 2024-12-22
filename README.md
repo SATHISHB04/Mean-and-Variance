@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
+# exp:01
+
 # Date:21.09.2024
 
 # Name:SATHISH.B
