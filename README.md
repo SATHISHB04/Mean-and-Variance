@@ -6,7 +6,7 @@
 
 # Name:SATHISH.B
 
-# Register No:24900077
+# Register No:21222404299
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
@@ -56,7 +56,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Program :
 ```
 developed by:SATHISH.B
-register no:24900077
+register no:21222404299
 ```
 ```
 import numpy as np
